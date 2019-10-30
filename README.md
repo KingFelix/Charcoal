@@ -18,4 +18,4 @@ Can't find what you need? You can add it yourself and contribute to the library,
 - Linkedin: [linkedin.com/in/jacopo-rabolini/](https://www.linkedin.com/in/jacopo-rabolini/)
 
 ## License
-Charcoal is released under [MIT License](license.md).
+Charcoal is released under [MIT License](./license.md).
