@@ -13,6 +13,7 @@ Can't find what you need? You can add it yourself and contribute to the library,
 ## Author
 
 ### Jacopo Rabolini
+I am a UX / UI Designer who lives and works in Italy. You can find more information about me at the following links:
 
 - Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
 - Linkedin: [linkedin.com/in/jacopo-rabolini/](https://www.linkedin.com/in/jacopo-rabolini/)
