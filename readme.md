@@ -16,6 +16,8 @@ Can't find what you need? You can add it yourself and contribute to the library,
 
 - Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
 - Linkedin: [linkedin.com/in/jacopo-rabolini/](https://www.linkedin.com/in/jacopo-rabolini/)
+- Dribble: [https://dribbble.com/JacopoRabolini](https://dribbble.com/JacopoRabolini)
+- Behance: [https://www.behance.net/jacoporabolini](https://www.behance.net/jacoporabolini)
 
 ## License
 Charcoal is released under [MIT License](./license.md).
