@@ -5,7 +5,7 @@ Charcoal is a basic wireframe kit created for Sketch. The main purpose of Charco
 ## Setup & usage
 1. Clone or download this repo
 2. Download and install the font used in the library: [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
-3. Add `Charcoal.sketch` as a library `File > Add as library…`
+3. Add `Charcoal.sketch` as a library: `File > Add as library…`
 
 ## Missing something?
 Can't find what you need? You can add it yourself and contribute to the library, or tell me what you would like to add.
